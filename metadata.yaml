@@ -1,5 +1,8 @@
 _repo: The-Book-of-Noodles--13-Stories-of-Simpletons--or-Fools-and-Their-Follies_13032
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Clouston, W. A. (William Alexander)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4784
     wikipedia: http://en.wikipedia.org/wiki/William_Alexander_Clouston
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13032#The-Book-of-Noodles--13-Stories-of-Simpletons--or-Fools-and-Their-Follies
 gutenberg_issued: '2004-07-26'
 gutenberg_type: Text
 identifiers:
